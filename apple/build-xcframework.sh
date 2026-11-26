@@ -9,7 +9,7 @@ NICE=${NICE:-19}
 export DEVELOPER_DIR=${DEVELOPER_DIR:-/Applications/Xcode.app/Contents/Developer}
 
 NAME=FFmpegAudio
-BUNDLE_ID=io.github.thirdshift-inc.FFmpegAudio
+BUNDLE_ID=io.github.thirdshift-sh.FFmpegAudio
 XROS_MIN=2.0
 MACOS_MIN=13.0
 VERSION=$(cat "$SRC/RELEASE")
